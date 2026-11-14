@@ -22,3 +22,6 @@ Open the repository's Actions tab and run **Build Pocket Agent APK** (also runs 
 
 ## Security
 Never commit a Gemini API key or other secrets to this repository. The next version should accept the key locally or use a protected backend. A Gemini subscription does not automatically include Gemini API usage; API access and billing are separate.
+
+## Repository status
+Starter source and automated APK build workflow are configured in this repository.
